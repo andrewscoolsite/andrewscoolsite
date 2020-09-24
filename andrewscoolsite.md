@@ -7,4 +7,4 @@ Here are the things we got:
 3. ### ***sending it***
 
 
-<iframe src="https://giphy.com/embed/Lo0IDynmNuIv4WpYrl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-Lo0IDynmNuIv4WpYrl">via GIPHY</a></p>
+![alt text](https://media.giphy.com/media/Lo0IDynmNuIv4WpYrl/giphy.gif)
