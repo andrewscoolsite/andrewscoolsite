@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 https://jamstackthemes.dev/theme/no-style-please/
 https://jamstackthemes.dev/theme/jekyll-bay/
 https://jekyllrb.com/
+https://guides.github.com/features/pages/
