@@ -7,6 +7,6 @@ Here are the things we got:
 3. ### ***sending it***
 
 
-![alt text](https://media.giphy.com/media/JrLwOBH23PUPlmhTbz/giphy.gif)
+![sent](https://media.giphy.com/media/dUNgOIElmpA73XcQMu/giphy.gif)
 
 [dotherightthing.caard.co](dotherightthing.caard.co)
