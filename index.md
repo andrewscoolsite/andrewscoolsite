@@ -12,3 +12,5 @@ WE GOT:
 ![sent](https://media.giphy.com/media/Pzd4dARLvaoDK/giphy.gif)
 
 [dotherightthing.caard.co](dotherightthing.caard.co)
+
+[https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
